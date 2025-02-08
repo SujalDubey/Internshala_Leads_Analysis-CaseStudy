@@ -12,7 +12,7 @@
   Imagine you are working for an organization that offers advanced certifications in various courses.
 
 ## DATA SOURCE:
-  Data is publicly available open-source data. I have downloaded and attached [here](https://github.com/SujalDubey/Internshala_Leads_Analysis-CaseStudy/blob/main/raw_data.csv)
+  Data is publicly available open-source data. I have downloaded and attached [here](https://github.com/SujalDubey/Internshala_Leads_Analysis-CaseStudy/blob/main/raw_data.csv).
   
 ## DATASET OVERVIEW:
   1. Channel_group: Acquisition channel of the lead.
@@ -31,4 +31,8 @@
   4. Total Channel Groups: 13
   5. Total Courses: 7
 
-**Disclamer: This data does not represent the exact values 
+**Disclaimer: This data does not represent the exact values
+
+https://github.com/user-attachments/assets/dc739988-adff-43c7-9f11-c51fe7faea6c
+
+
