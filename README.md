@@ -55,7 +55,7 @@ https://github.com/user-attachments/assets/dc739988-adff-43c7-9f11-c51fe7faea6c
      4. Guitar: 2,164 leads
      5. Google Analytics: 1,358 leads
 
-  4. ### Top Courses Converted:
+  3. ### Top Courses Converted:
          1. Java: 181 payments
          2. Python: 132 payments
          3. CRM: 125 payments
@@ -86,6 +86,7 @@ https://github.com/user-attachments/assets/dc739988-adff-43c7-9f11-c51fe7faea6c
   9. As per the data, on average, leads purchase the course within 8 to 10 days from the
       'Lead Date'.(Min. 1 day or Max. 28 days)
 
+# [Stophisticated report](https://github.com/SujalDubey/Internshala_Leads_Analysis-CaseStudy/blob/main/Internshala_data_analysis_project.pdf)
 
 ## IV RECOMMENDATIONS:
     1. The Python Course should be included in Channel Group J, as it has proven highest lead generation.
