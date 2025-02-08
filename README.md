@@ -12,7 +12,7 @@
   Imagine you are working for an organization that offers advanced certifications in various courses.
 
 ## DATA SOURCE:
-  Data is publicly available open-source data. I have downloaded and attached [here]
+  Data is publicly available open-source data. I have downloaded and attached [here](https://github.com/SujalDubey/Internshala_Leads_Analysis-CaseStudy/blob/main/raw_data.csv)
   
 ## DATASET OVERVIEW:
   1. Channel_group: Acquisition channel of the lead.
