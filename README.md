@@ -101,6 +101,7 @@ https://github.com/user-attachments/assets/dc739988-adff-43c7-9f11-c51fe7faea6c
 
 ## ASSUMPTIONS:
   To enhance insights and refine our findings, several assumptions were made about the dataset:
+    
     1. Assuming, Data is available for when the “channel_group” is created.
     2. Assuming, May 2024 had the highest leads recorded throughout the year 2024.
     3. Assuming, Every course is offered in every channel.
