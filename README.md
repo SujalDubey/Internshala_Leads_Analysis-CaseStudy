@@ -22,8 +22,8 @@ Imagine you are working for an organization that offers advanced certifications 
   paid_at: Date of payment (if applicable).
 
 ## DATA SUMMARY:
-  Total Leads: 16,460
-  Total Unique Leads: 16,460 (No duplicates in lead_id) 
+  Total Leads: 16,460.
+  Total Unique Leads: 16,460 (No duplicates in lead_id).
   Total Leads Converted: 648 leads have payment information.
   Total Channel Groups: 13
   Total Courses: 7
