@@ -36,8 +36,8 @@ https://github.com/user-attachments/assets/dc739988-adff-43c7-9f11-c51fe7faea6c
 
 ## III INSIGHTS:
   1. ### Top Channels performance:
-     a. A: 7,932 leads
-     b. M: 1,647 leads
+     1.1. A: 7,932 leads
+     1.2. M: 1,647 leads
      c. F: 1,586 leads
      d. D: 1,294 leads
      e. E: 1,080 leads
