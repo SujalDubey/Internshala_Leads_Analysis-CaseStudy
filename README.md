@@ -31,17 +31,49 @@
   4. Total Channel Groups: 13
   5. Total Courses: 7
 
+https://github.com/user-attachments/assets/dc739988-adff-43c7-9f11-c51fe7faea6c
+
+
 ## III INSIGHTS:
-  1. ### Channels performance:
-     A: 7,932 leads
-     M: 1,647 leads
-     F: 1,586 leads
-     D: 1,294 leads
-     E: 1,080 leads
+  1. ### Top Channels performance:
+     a. A: 7,932 leads
+     b. M: 1,647 leads
+     c. F: 1,586 leads
+     d. D: 1,294 leads
+     e. E: 1,080 leads
      
-  Channel A dominates lead generation and conversion (313 successful payments).
+  _Channel A dominates lead generation and conversion (313 successful payments)._
+
+  2. ### Most Popular Courses:
+     a. Python: 4,323 leads
+     b. Java: 4,250 leads
+     c. CRM: 2,565 leads
+     d. Guitar: 2,164 leads
+     e. Google Analytics: 1,358 leads
+
+  3. ### Top Courses Converted:
+     a. Java: 181 payments
+     b. Python: 132 payments
+     c. CRM: 125 payments
+     d. Guitar: 99 payments
+     e. Google Analytics: 44 payments
+  
+  _Python and Java are the most popular courses among leads, bringing more than
+50% of Total Leads._
+
+  4. ### Payment Trends:
+     a. Out of 16,460 leads, only 648 paid, with Java and Python being the most
+          purchased courses(313).
+     b. Leads generated through interacting with EFG gripped over 50% of the total
+          payments.
+     c. Only 3.9% of overall leads purchased the courses.
+     d. Leads generated through interacting with EFG gripped over 50% of the total
+          payments.
+
+  6.  
+
 **Disclaimer: This data does not represent the exact values
 
-https://github.com/user-attachments/assets/dc739988-adff-43c7-9f11-c51fe7faea6c
+
 
 
