@@ -29,7 +29,7 @@
   1. Total Leads: 16,460.
   2. Total Unique Leads: 16,460 (No duplicates in lead_id).
   3. Total Leads Converted: 648 leads have payment information.
-  4. Total Channel Groups: 13
+  4. Total Channel Groups: 13.
   5. Total Courses: 7
 
 https://github.com/user-attachments/assets/dc739988-adff-43c7-9f11-c51fe7faea6c
@@ -104,7 +104,7 @@ https://github.com/user-attachments/assets/dc739988-adff-43c7-9f11-c51fe7faea6c
     1. Assuming, Data is available for when the “channel_group” is created.
     2. Assuming, May 2024 had the highest leads recorded throughout the year 2024.
     3. Assuming, Every course is offered in every channel.
-    4. Assuming, Availability of data for “paid_at” is from May,1st to June, 1st.
+    4. Assuming the availability of data for “paid_at” is from May,1st to June, 1st.
 
 **Disclaimer: This data does not represent the exact values
 
