@@ -12,8 +12,8 @@ how leads are generated and how they interact with courses.
 Imagine you are working for an organization that offers advanced certifications in various courses.
 
 ## DATASET OVERVIEW:
-  Channel_group: Acquisition channel of the lead.
-  course: The course of interest to the lead.
+  1. Channel_group: Acquisition channel of the lead.
+  2. Course: The course of interest to the lead.
   lead_id: Unique identifier for each lead.
   Lead_type: Type of interaction for lead generation.
   lead_date: Date of lead creation.
