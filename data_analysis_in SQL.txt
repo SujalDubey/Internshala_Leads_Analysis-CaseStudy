@@ -1,0 +1,52 @@
+--making lead_id primary key for the database
+Alter table public.sda_assignment
+add Primary key(lead_id);
+
+--NEXT QUERIES ARE WRITTEN TO GENERATE INSIGHTS FROM THE DATA GIVEN
+
+
+--Query returns how leads are acquired through channel groups for different courses
+
+select channel_group, course, count(lead_id) as lead_generated
+FROM public.sda_assignment
+Group by channel_group, course
+order by channel_group,lead_generated DESC;
+
+--Query returns how leads are converted different courses gouped by channel group
+
+select channel_group, course, count(amount_paid) as lead_converted
+FROM public.sda_assignment
+Group by channel_group,course
+order by channel_group,lead_converted DESC;
+
+--Query returns leads converted for different courses
+
+select course, count(amount_paid) as lead_converted
+FROM public.sda_assignment
+Group by course
+order by lead_converted DESC;
+
+--Query returns which type of interaction generated MAXIMUM leads
+
+select lead_type, count(lead_id) as lead_generated
+FROM public.sda_assignment
+Group by lead_type
+order by lead_generated DESC limit 1;
+
+--changing data type to Date
+
+ALTER TABLE public.sda_assignment
+ALTER COLUMN paid_at TYPE DATE USING paid_at::DATE;
+
+--Query returns the average time leads take to buy the course in days (if they want to)
+
+with temp1 as
+(
+	select channel_group, course, lead_id, lead_type, lead_date, graduation_year, amount_paid, paid_at, (paid_at-lead_date ) as date_diff
+	FROM public.sda_assignment
+) 
+select course, ceil(avg(date_diff)) as average_time_in_lead_converted
+from temp1
+group by course
+order by average_time_in_lead_converted ASC; 
+
