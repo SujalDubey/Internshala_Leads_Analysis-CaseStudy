@@ -14,7 +14,7 @@
 ## DATA SOURCE:
   Data is publicly available open-source data. I have downloaded and attached [here](https://github.com/SujalDubey/Internshala_Leads_Analysis-CaseStudy/blob/main/raw_data.csv).
   
-## DATASET OVERVIEW:
+## II DATASET OVERVIEW:
   1. Channel_group: Acquisition channel of the lead.
   2. Course: The course of interest to the lead.
   3. lead_id: Unique identifier for each lead.
@@ -31,6 +31,15 @@
   4. Total Channel Groups: 13
   5. Total Courses: 7
 
+## III INSIGHTS:
+  1. ### Channels performance:
+     A: 7,932 leads
+     M: 1,647 leads
+     F: 1,586 leads
+     D: 1,294 leads
+     E: 1,080 leads
+     
+  Channel A dominates lead generation and conversion (313 successful payments).
 **Disclaimer: This data does not represent the exact values
 
 https://github.com/user-attachments/assets/dc739988-adff-43c7-9f11-c51fe7faea6c
