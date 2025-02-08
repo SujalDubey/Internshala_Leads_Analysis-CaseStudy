@@ -35,7 +35,7 @@
 https://github.com/user-attachments/assets/dc739988-adff-43c7-9f11-c51fe7faea6c
 
 
-## III KEY PERFORMANCE INDICATORS(KPIs) & INSIGHTS:
+## III KEY PERFORMANCE INDICATORS(KPIs) & INSIGHTS [Live Dashboard](https://public.tableau.com/app/profile/lunistic/viz/Internshala_data_analysis/Analysis_dashboard?publish=yes):
   1. ### Top Channels performance:
      1. A: 7,932 leads
      2. M: 1,647 leads
