@@ -34,7 +34,7 @@
 https://github.com/user-attachments/assets/dc739988-adff-43c7-9f11-c51fe7faea6c
 
 
-## III INSIGHTS:
+## III KEY PERFORMANCE INDICATORS(KPIs) & INSIGHTS:
   1. ### Top Channels performance:
      1. A: 7,932 leads
      2. M: 1,647 leads
@@ -70,7 +70,24 @@ https://github.com/user-attachments/assets/dc739988-adff-43c7-9f11-c51fe7faea6c
      4. Leads generated through interacting with EFG gripped over 50% of the total
           payments.
 
-  6.  
+  6. ### CONVERSION RATIOS:
+      1. Channel B has a conversion rate of over 15% for leads turning into paid leads.
+      2. CRM has the highest conversion ratio of 5% w.r.t. Leads acquired.
+  7. A slight peak was observed for 2024 graduates (569 leads).
+  8. As per the data, on average, leads purchase the course within 8 to 10 days from the
+      'Lead Date'.(Min. 1 day or Max. 28 days)
+
+
+## RECOMMENDATIONS:
+  1. The Python Course should be included in Channel Group J, as it has proven highest lead generation.
+  2. Promote Python, Java, and CRM courses, as they show high lead interest and conversion potential.
+  3. Prioritize Channel A for both lead generation and conversion.
+  4. Customize marketing strategies for 2024 graduates, as they represent a slightly larger share.
+  5. Analyze low-performing channels and adjust strategies to optimize them.
+  6. If we had dates for when the channel_group was created, we could compare the performances of the groups.
+
+## Conclusion:
+  This report demonstrates a data-driven approach to lead analysis, providing actionable insights into acquisition channels, course preferences, and conversion rates. By leveraging these findings, businesses can refine their marketing efforts, optimize lead nurturing,     and improve overall sales performance. The analysis highlights significant patterns in lead acquisition, interest, and conversion. By leveraging these insights, the organization can enhance its marketing efforts, optimize resource allocation, and improve overall lead    conversion rates.
 
 **Disclaimer: This data does not represent the exact values
 
