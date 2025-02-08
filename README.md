@@ -36,7 +36,7 @@ https://github.com/user-attachments/assets/dc739988-adff-43c7-9f11-c51fe7faea6c
 
 
 
-## III KEY PERFORMANCE INDICATORS(KPIs) & INSIGHTS: ###[Live Dashboard](https://public.tableau.com/app/profile/lunistic/viz/Internshala_data_analysis/Analysis_dashboard?publish=yes) 
+## III KEY PERFORMANCE INDICATORS(KPIs) & INSIGHTS: [Live Dashboard](https://public.tableau.com/app/profile/lunistic/viz/Internshala_data_analysis/Analysis_dashboard?publish=yes) 
   1. ### Top Channels performance:
      1. A: 7,932 leads
      2. M: 1,647 leads
@@ -85,6 +85,7 @@ https://github.com/user-attachments/assets/dc739988-adff-43c7-9f11-c51fe7faea6c
   8. A slight peak was observed for 2024 graduates (569 leads).
   9. As per the data, on average, leads purchase the course within 8 to 10 days from the
       'Lead Date'.(Min. 1 day or Max. 28 days)
+  10. 
 
 
 ## RECOMMENDATIONS:
@@ -96,7 +97,14 @@ https://github.com/user-attachments/assets/dc739988-adff-43c7-9f11-c51fe7faea6c
   6. If we had dates for when the channel_group was created, we could compare the performances of the groups.
 
 ## Conclusion:
-  This report demonstrates a data-driven approach to lead analysis, providing actionable insights into acquisition channels, course preferences, and conversion rates. By leveraging these findings, businesses can refine their marketing efforts, optimize lead nurturing,     and improve overall sales performance. The analysis highlights significant patterns in lead acquisition, interest, and conversion. By leveraging these insights, the organization can enhance its marketing efforts, optimize resource allocation, and improve overall lead    conversion rates.
+  This report demonstrates a data-driven approach to lead analysis, providing actionable insights into acquisition channels, course preferences, and conversion rates. By leveraging these findings, businesses can refine their marketing efforts, optimize lead nurturing, and improve overall sales performance. The analysis highlights significant patterns in lead acquisition, interest, and conversion.
+
+## ASSUMPTIONS:
+  To enhance insights and refine our findings, several assumptions were made about the dataset:
+    1. Assuming, Data is available for when the “channel_group” is created.
+    2. Assuming, May 2024 had the highest leads recorded throughout the year 2024.
+    3. Assuming, Every course is offered in every channel.
+    4. Assuming, Availability of data for “paid_at” is from May,1st to June, 1st.
 
 **Disclaimer: This data does not represent the exact values
 
