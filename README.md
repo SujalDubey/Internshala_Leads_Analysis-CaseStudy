@@ -47,7 +47,7 @@ https://github.com/user-attachments/assets/dc739988-adff-43c7-9f11-c51fe7faea6c
   _Channel A dominates lead generation and conversion (313 successful payments)._
 
   2. ### Most Popular Courses:
-![pie_chart](https://github.com/user-attachments/assets/a2b3121c-f57a-4bda-b900-29158b8f11cb)
+[pie_chart](https://github.com/user-attachments/assets/350f584d-53e4-427e-9c9f-dcdaed34c9cf)
 
      1. Python: 4,323 leads
      2. Java: 4,250 leads
@@ -75,12 +75,12 @@ https://github.com/user-attachments/assets/dc739988-adff-43c7-9f11-c51fe7faea6c
           payments.
 
   6. ### CONVERSION RATIOS:
-![Screenshot (82)](https://github.com/user-attachments/assets/91b0eea4-62f5-4a2b-9b3b-5037f117d883)
+[Screenshot (82)](https://github.com/user-attachments/assets/42e03a45-6abc-4792-aab3-24967df8a0ad)
 
       1. Channel B has a conversion rate of over 15% for leads turning into paid leads.
       2. CRM has the highest conversion ratio of 5% w.r.t. Leads acquired.
   
-![Screenshot (84)](https://github.com/user-attachments/assets/65178635-41f7-4c23-9ef7-09fcb4f5449d)
+[Screenshot (84)](https://github.com/user-attachments/assets/8ba2d288-b24f-4fb2-8471-6abaea0de85d)
 
   8. A slight peak was observed for 2024 graduates (569 leads).
   9. As per the data, on average, leads purchase the course within 8 to 10 days from the
@@ -109,7 +109,7 @@ https://github.com/user-attachments/assets/dc739988-adff-43c7-9f11-c51fe7faea6c
 
 ## VII APPENDIX:
 
-    1. To see the 1st raw analysis in Microsoft Excel [click here](https://github.com/SujalDubey/Internshala_Leads_Analysis-CaseStudy/blob/main/Data_analysis_in_excel.xlsx).
-    2. Insights are also generated and analyzed in SQL language using PostgreSQL, here is the [link](https://github.com/SujalDubey/Internshala_Leads_Analysis-CaseStudy/blob/main/data_analysis_in%20SQL.txt) to queries
+  1. To see the 1st raw analysis in Microsoft Excel [click here](https://github.com/SujalDubey/Internshala_Leads_Analysis-CaseStudy/blob/main/Data_analysis_in_excel.xlsx).
+  2. Insights are also generated and analyzed in SQL language using PostgreSQL, here is the [link](https://github.com/SujalDubey/Internshala_Leads_Analysis-CaseStudy/blob/main/data_analysis_in%20SQL.txt) to queries
       used.
-    3. Combined link to Google Drive is [here](https://drive.google.com/drive/folders/1lGV_NYDtJ6sEOxwiBUMSV5KYJnvGT2Cz?usp=sharing).
+  3. Combined link to Google Drive is [here](https://drive.google.com/drive/folders/1lGV_NYDtJ6sEOxwiBUMSV5KYJnvGT2Cz?usp=sharing).
