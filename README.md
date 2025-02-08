@@ -11,3 +11,19 @@ how leads are generated and how they interact with courses.
 
 Imagine you are working for an organization that offers advanced certifications in various courses.
 
+## DATASET OVERVIEW:
+  Channel_group: Acquisition channel of the lead.
+  course: The course of interest to the lead.
+  lead_id: Unique identifier for each lead.
+  Lead_type: Type of interaction for lead generation.
+  lead_date: Date of lead creation.
+  graduation_year: Year of graduation.
+  amount_paid: Amount paid by the lead (if applicable).
+  paid_at: Date of payment (if applicable).
+
+## DATA SUMMARY:
+  Total Leads: 16,460
+  Total Unique Leads: 16,460 (No duplicates in lead_id) 
+  Total Leads Converted: 648 leads have payment information.
+  Total Channel Groups: 13
+  Total Courses: 7
