@@ -47,6 +47,7 @@ https://github.com/user-attachments/assets/dc739988-adff-43c7-9f11-c51fe7faea6c
 
   2. ### Most Popular Courses:
 ![pie_chart](https://github.com/user-attachments/assets/a2b3121c-f57a-4bda-b900-29158b8f11cb)
+
      1. Python: 4,323 leads
      2. Java: 4,250 leads
      3. CRM: 2,565 leads
@@ -74,10 +75,12 @@ https://github.com/user-attachments/assets/dc739988-adff-43c7-9f11-c51fe7faea6c
 
   6. ### CONVERSION RATIOS:
 ![Screenshot (82)](https://github.com/user-attachments/assets/91b0eea4-62f5-4a2b-9b3b-5037f117d883)
+
       1. Channel B has a conversion rate of over 15% for leads turning into paid leads.
       2. CRM has the highest conversion ratio of 5% w.r.t. Leads acquired.
   
 ![Screenshot (84)](https://github.com/user-attachments/assets/65178635-41f7-4c23-9ef7-09fcb4f5449d)
+
   8. A slight peak was observed for 2024 graduates (569 leads).
   9. As per the data, on average, leads purchase the course within 8 to 10 days from the
       'Lead Date'.(Min. 1 day or Max. 28 days)
