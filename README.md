@@ -85,7 +85,6 @@ https://github.com/user-attachments/assets/dc739988-adff-43c7-9f11-c51fe7faea6c
   8. A slight peak was observed for 2024 graduates (569 leads).
   9. As per the data, on average, leads purchase the course within 8 to 10 days from the
       'Lead Date'.(Min. 1 day or Max. 28 days)
-  10. 
 
 
 ## IV RECOMMENDATIONS:
